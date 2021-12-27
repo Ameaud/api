@@ -1,0 +1,224 @@
+{
+	"id":"test",
+	"name":"",
+	"version":"",
+	"channel":[
+  {
+    "id": "",
+    "logo":
+        "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/FRANCE24.svg/1200px-FRANCE24.svg.png",
+    "name": "France 24",
+    "url": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
+    "category": "information",
+    "language": "fr",
+    "favorite": "true",
+    "country": "france"
+  },
+  {
+    "id": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/RTI1.png",
+    "name": "RTI",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+    "category": "afrique",
+    "language": "fr",
+    "favorite": "false",
+    "country": "ci"
+  },
+  {
+    "id": "",
+    "logo": "https://www.lifetv.ci/resources/img/logo.png",
+    "name": "Life TV",
+    "url": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
+    "category": "afrique",
+    "language": "fr",
+    "favorite": "true",
+    "country": "ci"
+  },
+  {
+    "id": "",
+    "logo":
+        "https://logos-marques.com/wp-content/uploads/2021/03/Brazzers-Couleur.png",
+    "name": "Brazzers",
+    "url": "https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7vidbb",
+    "category": "adult",
+    "language": "en",
+    "favorite": "true",
+    "country": "usa"
+  },
+  {
+    "id": "",
+    "logo":
+        "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/Canal%2B_Cin%C3%A9ma_HD_2013.svg/1200px-Canal%2B_Cin%C3%A9ma_HD_2013.svg.png",
+    "name": "CANAL+ CINEMA",
+    "url": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
+    "category": "cinema",
+    "language": "fr",
+    "favorite": "false",
+    "country": "france"
+  },
+  {
+    "id": "",
+    "logo":
+        "https://img1.freepng.fr/20180404/ooe/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4535d337.1986375915229005492205.jpg",
+    "name": "Cartoon Network",
+    "url": "https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8",
+    "category": "jeunesse",
+    "language": "fr",
+    "favorite": "false",
+    "country": "usa"
+  },
+  {
+    "id": "",
+    "logo":
+        "https://img.favpng.com/9/4/5/discovery-science-discovery-channel-television-channel-png-favpng-GQrj9HYnU7fCDLUSri7P8bgkJ.jpg",
+    "name": "Discovery Science",
+    "url": "https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8",
+    "category": "documentaire",
+    "language": "fr",
+    "favorite": "false",
+    "country": "usa"
+  },
+  {
+    "id": "",
+    "logo":
+        "http://3.bp.blogspot.com/-GT9kmi9AcFA/T4rUBoxEXBI/AAAAAAAAE-A/ZnyBiLEYzXY/s500/Cuisine++logo+2012.png",
+    "name": "Cuisine TV",
+    "url": "https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8",
+    "category": "cuisine",
+    "language": "fr",
+    "favorite": "false",
+    "country": "usa"
+  },
+  {
+    "id": "",
+    "logo":
+        "https://www.freenews.fr/wp-content/uploads/2021/05/screenshot95-1-702x336.png",
+    "name": "Dorcel TV africa",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "category": "adult",
+    "language": "fr",
+    "favorite": "false",
+    "country": "cameroon"
+  },
+  {
+    "id": "",
+    "logo":
+        "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Trace_Africa_logo_2011.svg/1200px-Trace_Africa_logo_2011.svg.png",
+    "name": "Trace Africa",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+    "category": "musique",
+    "language": "fr",
+    "favorite": "false",
+    "country": "france"
+  },
+  {
+    "id": "",
+    "logo":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/600px-BFM_TV_logo.png",
+    "name": "BFM TV",
+    "url": "http://hbbtvlive3.v3.tvp.pl/hbbtvlive/livestream.php?app_id=kanal2",
+    "category": "information",
+    "language": "fr",
+    "favorite": "false",
+    "country": "france"
+  },
+  {
+    "id": "",
+    "logo":
+        "https://upload.wikimedia.org/wikipedia/fr/archive/c/cc/20140130161321%21Trace_FM.png",
+    "name": "Trace FM ci",
+    "url": "https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8",
+    "category": "radio",
+    "language": "fr",
+    "favorite": "false",
+    "country": "ci"
+  },
+  {
+    "id": "",
+    "logo":
+        "https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png",
+    "name": "Teletoon +",
+    "url": "https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8",
+    "category": "jeunesse",
+    "language": "fr",
+    "favorite": "true",
+    "country": "france"
+  },
+  {
+    "id": "",
+    "logo":
+        "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/1280px-Action_France_%282000%29.svg.png",
+    "name": "Action",
+    "url": "http://us.bestvideostreaming.is/8772/playlist.m3u8",
+    "category": "cinema",
+    "language": "fr",
+    "favorite": "false",
+    "country": "france"
+  },
+],
+"category":[
+  {
+    "id": "information",
+    "name": "Information",
+  },
+  {
+    "id": "cinema",
+    "name": "Cinéma",
+  },
+  {
+    "id": "jeunesse",
+    "name": "Jeunesse",
+  },
+  {
+    "id": "sport",
+    "name": "Sport",
+  },
+  {
+    "id": "musique",
+    "name": "Musique",
+  },
+  {
+    "id": "divertissement",
+    "name": "Diverstissement",
+  },
+  {
+    "id": "documentaire",
+    "name": "Documentaire",
+  },
+  {
+    "id": "serie",
+    "name": "Séries",
+  },
+  {
+    "id": "adulte",
+    "name": "Adulte",
+  },
+],
+"country":[
+  {
+    "id": "france",
+    "name": "France",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png",
+
+  },
+  {
+    "id": "usa",
+    "name": "Amérique",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png",
+
+  },
+  {
+    "id": "ci",
+    "name": "Côte d'Ivoire",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/2560px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+
+  },
+  {
+    "id": "cameroon",
+    "name": "Cameroun",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/langfr-225px-Flag_of_Cameroon.svg.png",
+
+  },
+],
+"information":[]
+}
