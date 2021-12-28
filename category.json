@@ -1,0 +1,38 @@
+[
+  {
+    "id": "information",
+    "name": "Information",
+  },
+  {
+    "id": "cinema",
+    "name": "Cinéma",
+  },
+  {
+    "id": "jeunesse",
+    "name": "Jeunesse",
+  },
+  {
+    "id": "sport",
+    "name": "Sport",
+  },
+  {
+    "id": "musique",
+    "name": "Musique",
+  },
+  {
+    "id": "divertissement",
+    "name": "Diverstissement",
+  },
+  {
+    "id": "documentaire",
+    "name": "Documentaire",
+  },
+  {
+    "id": "serie",
+    "name": "Séries",
+  },
+  {
+    "id": "adulte",
+    "name": "Adulte",
+  },
+]
